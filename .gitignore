@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# build output
+dist
+
+# logs and caches
+*.log
+npm-debug.log*
+.vite
+*.tsbuildinfo
+
+# environment files
+.env
+.env.*
+
+# editors and OS
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+desktop.ini
